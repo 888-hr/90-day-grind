@@ -24,3 +24,4 @@
 
 ## Done
 - CS50P Pset 0 complete: indoor, playback, faces, einstein, tip - all submitted, full marks, no help from ai
+- pset 0 complete, Bandit 0–8 done
