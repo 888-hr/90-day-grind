@@ -38,3 +38,18 @@
 
 ## Done
 - thoroughly completed lecture 1: conditionals
+
+# Day 4
+
+## Learnt
+- utilise .split() to assign multiple values, also methods like .startswith(), .endswith()
+- utilising conditionals such as if, elif, match
+- utilising comparison and arithmetic operators to match output to input
+- general fluency and understanding of more complex code
+
+## Error
+- lots of minor syntax errors with comparison operators 
+- def functions not functioning due to syntax errors within, not just syntax errors but not knowing what to assign to what, to make the code function - e.g: got the return value of a function as intended, not sure how to print that return value with print(), turns out you can just include the function inside of print to return the end value. - print(function())
+
+## Done
+- CS50 Problem set 1 start to finish
