@@ -53,3 +53,8 @@
 
 ## Done
 - CS50 Problem set 1 - start to finish, full marks, minimal ai with no answers given by it, as always.
+
+## Day 5
+
+## Learnt
+- Not following usual format today, small session - Finished 45 minutes into lecture 2. Understanding everything fine so far, just short on time today so i will finish lecture 2 + problem set 2 tomorrow.
