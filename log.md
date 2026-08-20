@@ -58,3 +58,11 @@
 
 ## Learnt
 - Not following usual format today, small session - Finished 45 minutes into lecture 2. Understanding everything fine so far, just short on time today so i will finish lecture 2 + problem set 2 tomorrow.
+
+## Day 6 
+
+## Learnt 
+- Finished lecture 2 - Loops
+- Learnt nested loops, and how to structure the logic to let the inner loop run before moving onto the outer loop, e.g using end="" to carry on the inner loop on the same line, and then manually print() after its done to move onto the next.
+
+## Been busy the past couple of days, which threw the schedule off track. Was meant to also complete problem set 2 today, but atleast i finished the lecture with the given time i had. Going to move onto the problem set tomorrow and work on better consistency and bigger session times.
