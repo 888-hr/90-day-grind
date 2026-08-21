@@ -62,7 +62,20 @@
 ## Day 6 
 
 ## Learnt 
-- Finished lecture 2 - Loops
 - Learnt nested loops, and how to structure the logic to let the inner loop run before moving onto the outer loop, e.g using end="" to carry on the inner loop on the same line, and then manually print() after its done to move onto the next.
 
+## Done 
+- - Finished lecture 2 - Loops
+
 ## Been busy the past couple of days, which threw the schedule off track. Was meant to also complete problem set 2 today, but atleast i finished the lecture with the given time i had. Going to move onto the problem set tomorrow and work on better consistency and bigger session times.
+
+## Day 7
+
+## Learnt 
+- from the 2 tasks i completed i have learnt how to take more personalised input, and structure my code combining multiple things i have learnt so far to handle more complex tasks. Today has been especially 'for in' 'if in' 'char', combining strings, using end="" and mainly using loops - while True:
+
+## Error
+- using wrong logic multiple times trying to create lists, use 'for in' instead of 'if in' etc. I can differenciate them now, and use them accordingly.
+
+## Done 
+- completed tasks 1 and 2 on problem set 2, took me more time than expected, much longer than other problem sets so i wasnt able to complete it in one sitting, i'll complete it tomorrow and hopefully still work towards those bigger session times.
