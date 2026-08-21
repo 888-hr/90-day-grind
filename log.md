@@ -65,9 +65,9 @@
 - Learnt nested loops, and how to structure the logic to let the inner loop run before moving onto the outer loop, e.g using end="" to carry on the inner loop on the same line, and then manually print() after its done to move onto the next.
 
 ## Done 
-- - Finished lecture 2 - Loops
+- Finished lecture 2 - Loops
 
-## Been busy the past couple of days, which threw the schedule off track. Was meant to also complete problem set 2 today, but atleast i finished the lecture with the given time i had. Going to move onto the problem set tomorrow and work on better consistency and bigger session times.
+- Been busy the past couple of days, which threw the schedule off track. Was meant to also complete problem set 2 today, but atleast i finished the lecture with the given time i had. Going to move onto the problem set tomorrow and work on better consistency and bigger session times.
 
 ## Day 7
 
