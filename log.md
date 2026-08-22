@@ -79,3 +79,19 @@
 
 ## Done 
 - completed tasks 1 and 2 on problem set 2, took me more time than expected, much longer than other problem sets so i wasnt able to complete it in one sitting, i'll complete it tomorrow and hopefully still work towards those bigger session times.
+
+## Day 8
+
+## Learnt
+- Learnt significantly more about how methods, and functions actually take inputs, and how to structure them - as mentioned below
+- Learnt the rule of counting ranges, indexing contrary to counting say len(string), len starts at 1 and counts content normally however when counting ranges etc. starts from 0 counting upwards for a different purpose
+
+## Error 
+- lead myself in circles with AI, not using it for answers but minimal guidance, instead it sent me in circles, using the wrong methods and structure. In the future when using AI for minimal guidance i will prioritise my own intuition, and resources such as py docs to avoid wasted time and AI misleading. 
+*although - i am very serious about my own research and learning, i do not cut any corners with AI.*
+- Misunderstanding several methods/functions, causing syntax errors and wrong tools — e.g. .replace() to delete instead of pass, range for length forgetting len(), .isdigit("0") passing an argument it doesn't take.
+- Confused i as a value instead of a position in range(len(s)) loops — kept mixing char with i, breaking slices like s[i:].
+- Misusing and misunderstanding return True within loops, not realising this will ultimately return True and break the loop instead of validating as true and moving on.
+
+## Done
+- Finished 2 more tasks in problem set 2, dedicated 4-5 hours today to this non-stop, however due to constant circling, and lost progression due to wrong structuring i lost a lot of time, lesson learnt. 1 more task remaining for problem set 2 - cs50 is having some problems with github, and i cannot check nor submit work so i will complete this aswell as hopefully lecture 3 in tomorrows session.
