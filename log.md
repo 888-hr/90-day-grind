@@ -95,3 +95,17 @@
 
 ## Done
 - Finished 2 more tasks in problem set 2, dedicated 4-5 hours today to this non-stop, however due to constant circling, and lost progression due to wrong structuring i lost a lot of time, lesson learnt. 1 more task remaining for problem set 2 - cs50 is having some problems with github, and i cannot check nor submit work so i will complete this aswell as hopefully lecture 3 in tomorrows session.
+
+
+## Day 9:
+
+## Learnt 
+- dict, learnt the function, structure, and how to index in and find the matching key:value
+- jog knowledge on basic shell commands - grep, cat
+
+## Error
+- not knowing how to index into dict, just trying to print(dictvariable) which printed the whole thing literally.
+
+## Done
+- finished problem set 2, although i cannot submit nor check due to error with github and cs50 persisting.
+- very lightly skimmed lecture 1 of missing semester 
