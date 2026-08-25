@@ -109,3 +109,18 @@
 ## Done
 - finished problem set 2, although i cannot submit nor check due to error with github and cs50 persisting.
 - very lightly skimmed lecture 1 of missing semester 
+
+## Day 10
+
+## Learnt
+- learnt to focus more on structuring code so the logic flows, to avoid things such as the exception error below
+- learnt try/except statements, how to catch errors such as ValueErrors or ZeroDivisionErrors and either pass them or print the error back to the user more succinctly + learnt what ValueErrors cover.
+- how to utilise while loops to cover more code and contain more functionality, covered more on break, pass however i'd learnt them in past independent research
+
+## Error
+- trying to use multiple elses in a try:exception statement, instead should have just used multiple ' if * or if * or if * in a single else - yeah i still suck at explaining any code but lets work on it 
+- structured the exception wrong - code structure ran lines of code outside of the try statement so they tried to run before they were actually filtered by the exception.
+
+## Done
+- finished lecture 3 - exceptions
+- completed and submitted task 1 of problem set 3 
