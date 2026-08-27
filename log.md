@@ -124,3 +124,21 @@
 ## Done
 - finished lecture 3 - exceptions
 - completed and submitted task 1 of problem set 3 
+
+## Day 11
+
+## Learnt
+- Better understanding how keywords and statements function logically - continue, return, except, if, etc.
+- More complex structuring of while loops incorporating: try:except statement and if:else conditional inside of loop, etc.
+- how to create dicts from user input, used formatted string to print keys:values, utilised sorted() function to print the dict alphabetically etc., How to index into dict and manipulate keys / values per user input
+- Assign variables to a value e.g 0, and then utilise a while loop so user can dynamically change the value with every input, then print/return a final value when the loop breaks.
+- Exception handling different errors, ValueError and KeyError mainly for user input mistakes, But also EOFError to print / run a function after user quits (most commonly control+d).
+- Better understanding of general code structure / logic, mainly indentation.
+
+## Error
+- spent 90 minutes on a problem set 3 task mainly fighting an overlapping pass statement and a exception handling KeyError, both fighting the same Error of input not matching what is inside of dict, eventually i realised i didnt need to handle KeyError at all, the exception was only meant to handle EOFError, when the user control+d to exit the program, i only realised this after fighting it for 90 minutes. After realisation it made the code 10x simpler, i should've noticed the logic not making sense earlier and checked if the error i was using inside of the exception was actually correct. Ultimately the 90 minutes was worth the lesson.
+- When structuring my while loop, I used keywords like return and continue to attempt to return a validated value from an expression and then continue with the loop, not knowing return actually breaks out of the loop and returns said value as the final value. Instead for conditionals that need a body, I incorporated the rest of the loop inside of the body so the value is validated and then the loop continues to flow logically as intended.
+- Mixed up keys and values in dict, I thought they were the opposite - value = word / item in dict, key = number of instances etc. but they are the other way around, resulted in wasted time but now i know.
+
+## Done
+- spent 5 hours on 2 tasks from problem set 3, a lot of trial and error, 1 task remaining until pset3 is finished. Will finish it tomorrow session and then catch up on either missing semester, or the CLI deliverable from Week 1.
