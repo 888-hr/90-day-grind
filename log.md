@@ -142,3 +142,24 @@
 
 ## Done
 - spent 5 hours on 2 tasks from problem set 3, a lot of trial and error, 1 task remaining until pset3 is finished. Will finish it tomorrow session and then catch up on either missing semester, or the CLI deliverable from Week 1.
+
+## Day 12
+
+## Learnt
+- How to index into a list and assign the position of item in list to a variable using .index 
+- Taking an input which has a possibility of being either digits or a string, and validating accordingly
+- Padding in f strings to make sure digits are formatted correctly (x:02) so single digit characters lead with a 0
+- Better understanding in general from restructuring code completely numerous times and fixing my errors. 
+- While building my CLI, I learnt I could implement more complex features from things i have already learnt, such as instructing the user to type certain words which would register and function accordingly. In this case the words were 'list' and 'end'. When inputted, list would give a list of everything purchased so far today, aswell as give a running total so far before continuing to input again. When 'end' is inputted, the end of the spending day is signalled and a finalised total is printed.
+- Customised the CLI to be user friendly and print a brief explanation of how the program functions when started.
+
+## Error
+- Same error as yesterday with return statement, realised yesterday that it breaks out of while loops and returns a final value, however today I learnt it also breaks out of whole function definitions and does the same.
+- Misunderstanding of keywords 'pass' and 'continue'. I thought pass takes invalid input, disregards it, and re-runs the loop from the top — but it does not. pass does nothing with an invalid input and continues through to the code below, so invalid input still gets processed by everything beneath it as if the input was valid. The proper keyword here is continue, which does what I actually intended: on invalid input, skip the rest of the loop and jump back to the top, re-prompting the user.
+- ^^ pattern accross days showing my main problem is understanding how to structure code, how logic flows, and the behavior of keywords and statements.
+- On the last task of pset 3, structured the whole thing to work, but unconventionally. In the end i had the code which worked for every input except one error which accepted wrong input format, because of this one error, I had to restructure the whole code from the beginning: another brutal lesson which I need to work on avoiding.
+- While building my CLI, I built the code perfectly, and then when testing, it was outputting the total as only one of the costs instead of tallying the cost up and building the value of the hardcoded total = 0 variable. I spent a hour restructuring code to try and fix it, and in the end it was simply a case of the += operator being backwards, and the program failing silently. Insane.
+
+## Done
+- Finished CS50 Problem set 3
+- Successfully built my own expense tracker CLI incorporating multiple things I have learnt so far: Very proud of that one. (attached to repo)
