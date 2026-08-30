@@ -1,4 +1,4 @@
-# Day 1:
+## Day 1:
 
 ## Learnt
 - functions, variables, parameters, def, round etc.
@@ -26,7 +26,7 @@
 - CS50P Pset 0 complete: indoor, playback, faces, einstein, tip - all submitted, full marks, no help from ai
 - pset 0 complete, Bandit 0–8 done
 
-# Day 3 
+## Day 3 
 
 ## Learnt
 - conditionals in py: if, elif, else, match, or
@@ -39,7 +39,7 @@
 ## Done
 - thoroughly completed lecture 1: conditionals
 
-# Day 4
+## Day 4
 
 ## Learnt
 - utilise .split() to assign multiple values, also methods like .startswith(), .endswith()
@@ -163,3 +163,15 @@
 ## Done
 - Finished CS50 Problem set 3
 - Successfully built my own expense tracker CLI incorporating multiple things I have learnt so far: Very proud of that one. (attached to repo)
+
+## Day 13
+
+## Learnt
+- Took a step back to the fundamentals, learnt about how basic hardware functions and how it comes into play with everything. Learnt how cpu, gpu, ram and ssd actually function and what they handle which helped my understanding of how they come into play when running things like python and ubuntu (software in general)
+- Gained a clearer understanding of what Linux actually is (just the kernel), what a kernel does, and how it differs from a full distribution like Ubuntu. (also clarified grey areas on understanding software like python and c/c++: mainly how things are interpreted and the logic flow top to bottom + differences between languages.)
+
+## Error
+- No specific bugs, but a huge grey area at the start regarding the fundamentals, I simply didnt know how everything functioned literally, what a kernel actually is vs a distro like ubuntu, what the hardware in my pc actually does etc. (Mostly clarified now)
+
+## Done
+- No concrete work completion today, which is fine. Today I wanted to step away from the guided work and focus on things I genuinely didnt understand, which happened to be the fundamentals listed above. Mostly back and fourth with AI, asking about said things and then making AI elaborate on grey areas until a clear understanding was reached.
