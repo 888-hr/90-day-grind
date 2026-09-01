@@ -175,3 +175,16 @@
 
 ## Done
 - No concrete work completion today, which is fine. Today I wanted to step away from the guided work and focus on things I genuinely didnt understand, which happened to be the fundamentals listed above. Mostly back and fourth with AI, asking about said things and then making AI elaborate on grey areas until a clear understanding was reached.
+
+## Day 14
+
+## Learnt
+- Learnt about libraries / modules, how to import them and how they work, also how to import specific functions from modules using from.
+- Learnt about built in modules like random and sys, mostly learnt about how sys functions aswell as use cases for it: sys.exit, sys.argv.
+- Started on API, starting with how to make a request to an API and get a response, along with how to tailor what you search the API for using input from sys.argv. Also how to search for specific cases in the API using keys from the API creator in this case: ("results"), ("trackName").
+
+## Error
+- No specific errors since today was lecture day, however I paused the video and researched misunderstandings when necessary.
+
+## Done
+- Finished Lecture 4 - Libraries, Problem set 4 Tomorrow.
