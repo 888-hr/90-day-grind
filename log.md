@@ -188,3 +188,19 @@
 
 ## Done
 - Finished Lecture 4 - Libraries, Problem set 4 Tomorrow.
+
+## Day 15
+
+## Learnt
+- Learnt how to utilise an object to change values using class methods
+- Importing and using modules, also using from to import specfic functions from modules
+- Defining an error message inside of sys.exit parenthesis, originally used a seperate print function however paid for it because it didnt recognise it as a specified error (error code 0)
+
+## Error
+- Mixed up indexing and len logic multiple times, starting from 0 logic with len when using it and starting from 1 logic with indexing.
+- Not understanding what an object is and its function, trying to use class methods on a random variable which does not make sense, now i understand what an object is and its purpose.
+- Assumed setFont would hand back a value like most methods do, however methods can change the object in place and return nothing instead, so always check the exact function of a method even if it sounds like it will return a value.
+
+## Done
+- Tasks 1 & 2 of problem set 4.
+- Some grey area on understanding what everything does here under the hood: class vs module, objects, where things are stored and where they come into play. I will continue to build clarity in coming sessions.
