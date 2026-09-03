@@ -204,3 +204,17 @@
 ## Done
 - Tasks 1 & 2 of problem set 4.
 - Some grey area on understanding what everything does here under the hood: class vs module, objects, where things are stored and where they come into play. I will continue to build clarity in coming sessions.
+
+## Day 16
+
+## Learnt
+- How to create an empty string and build on it (using for loops in this case)
+- How to correctly slice lists
+- More clarity on the logic of: indentation, for loops, indexing, exceptions.
+
+## Error
+- Spent almost a hour trying to figure out why my supposedly fine code wasnt returning a changed list after changing it, so I started narrowing down the cause. I changed indentation, changed conditionals, tried to approach the problem differently - nothing was working. Turns out in the end it was simply because I was trying to slice a list with the syntax list[-1], so it silently ran and returned an unchanged list, or just changed the last value inside of the list. - wrote the right code in the first 15 minutes of the task, tried to change it for an hour thereafter until I finally came to a realisation.
+- Used a for loop to store edited list values into a variable, however the variable was inside of the loop, forgetting whatever was updated inside of it each time the for loop runs. Solution: create an empty string outside of the for loop and then use the loop to add values to the string as it runs. 
+
+## Done
+- Problem set 4, task 3. - *Very silly although not careless mistakes today, going to try and clear the rest of the problem set smoothly tomorrow.*
