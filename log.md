@@ -218,3 +218,18 @@
 
 ## Done
 - Problem set 4, task 3. - *Very silly although not careless mistakes today, going to try and clear the rest of the problem set smoothly tomorrow.*
+
+## Day 17
+
+## Learnt 
+- Functions I write return values the same way built-ins do — x = myfunc() works exactly like x = input()
+- range's second number is exclusive, so range(1, level) stops one short. Fix is level + 1 inside the parenthesis so level itself is included.
+- raise lets you raise an error on purpose. The function that spots bad input raises it, and then you decide what to do.
+- Inner & Outer loops: outer one for the ten questions, inner one for the three attempts. break only exits the loop it's in, so the inner break sends you back to the outer. (for this problem specifically) general idea - use an inner loop to run something a set number of times before breaking back to the outer loop.
+
+## Error
+- Wrote right = guess instead of right = guess(), so the variable held the function itself and not the answer. Error said 'function' and 'int' which pointed straight at it.
+- Numbers were coming out of range one lower than expected, instead of guessing at the fix I tested the smallest case, then temporarily removed the check that was blocking 0 to confirm the range was starting there. First time I've isolated a cause instead of changing code until it works.
+
+## Done
+- Problem set 4: Tasks 4 & 5 Submitted. - Harder tasks although less time to completion, tightening up on silly mistakes.
