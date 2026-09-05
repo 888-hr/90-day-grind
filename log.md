@@ -233,3 +233,18 @@
 
 ## Done
 - Problem set 4: Tasks 4 & 5 Submitted. - Harder tasks although less time to completion, tightening up on silly mistakes.
+
+## Day 18
+
+## Learnt
+- Indexing into nested dicts: chain the brackets left to right, each one steps down a level. d["data"]["priceUsd"] gets the inner dict first, then the key inside it.
+- A failed request and a bad response are different problems, requests.RequestException only fires when the server can't be reached at all — a 404 is a successful exchange with unexpected content, response.status_code handles that (invalid username in this case).
+- Multiple exception types go in one except as a tuple with parentheses. Using Error or Error here doesnt work, need to use (Error, Error).
+- Utilised a venv for the first time to install an isolated package.
+
+## Error
+- No Errors worth mentioning today, completed the last task in Problem set 4 and made the github_lookup program with no problem.
+
+## Done
+- Problem set 4 complete 
+- github_lookup Program (Takes username from sys.argv then fetches and prints specific values from githubs API)
