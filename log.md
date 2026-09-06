@@ -248,3 +248,17 @@
 ## Done
 - Problem set 4 complete 
 - github_lookup Program (Takes username from sys.argv then fetches and prints specific values from githubs API)
+
+## Day 19
+
+## Learnt
+- Assert and AssertionError.
+- Using pytest to test functions and reading pytest output.
+- Handling more than one test using multiple functions - Also helps as output stops at first failure when only using one function for multiple tests + using multiple functions narrows down the output so you know what failed more specifically.
+- Handling errors pytest raises using function pytest.raises(Error)
+
+## Error
+- No Errors, Lecture day.
+
+## Done
+- CS50P Lecture 5: Unit tests
