@@ -262,3 +262,18 @@
 
 ## Done
 - CS50P Lecture 5: Unit tests
+
+## Day 20
+
+## Learnt
+- Print vs return when Error checking, function needs to return a value, printing is a side effect which is not registered by the check.
+- Parameter vs argument, parameter is just the name in function def parenthesis which a value is passed to.
+- If error checking with a hard coded value going into the function, casefold the parameter in the function itself instead of any other instance.
+
+## Error
+- Function was printing instead of returning a value therefor failed Error checks, (The test saw None)
+- Mixing up parameters, arguments, values - clarified now.
+
+## Done
+- Problem set 5 Tasks 1-3 done, 1 left.
+- Easy problem set today going over the basics of Error checking independently and with pytest got through it quite quickly.
