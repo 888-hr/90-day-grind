@@ -277,3 +277,19 @@
 ## Done
 - Problem set 5 Tasks 1-3 done, 1 left.
 - Easy problem set today going over the basics of Error checking independently and with pytest got through it quite quickly.
+
+## Day 21
+
+## Learnt
+- pytest.raises(Error) in pytest to test the code raises intended errors.
+- Used with to check the block below for the Error which pytest raises, formed a basic understanding of the keyword. - Learnt more about using 'with' with files.
+- Learnt about File I/O In lecture 6, opening, appending and writing files with various functions and methods.
+- Learnt about csv files, how to write and read them as dicts using csv.DictReader & csv.DictWriter.
+- Sorting dicts and more using sorted function.
+- Using with open.() 'as' {variablename} to open a file and then bind the object open returns to a variable name.
+
+## Error
+- When checking for individual Errors, make sure logic flows properly - checked for ZeroDivisionError in 4/0 fraction, however it raised ValueError first since 4 is greater than 0, structure code in which ZeroDivisionError gets checked first. 
+
+## Done
+- Finished problem set 5 & Lecture 6 - File I/O
