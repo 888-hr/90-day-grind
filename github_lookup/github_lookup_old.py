@@ -20,7 +20,7 @@ data = response.json()
 if data["name"] is None:
     name = "No Name"
 else:
-    name = data["name"]
+    name = data["name"]     
 
 creation = data["created_at"]
 
