@@ -293,3 +293,15 @@
 
 ## Done
 - Finished problem set 5 & Lecture 6 - File I/O
+
+## Day 22
+
+## Learnt
+- writeheader only needs running once on a fresh file. Skipped it by pre-making the csv with the header already in.
+- Utilised csv.DictWriter, fieldnames, writerow to make a function which takes values and appends them to the csv formatted with dicts accordingly.
+
+## Error
+- Nothing hit the error bar today, restructured the lookup tool without notable problems.
+
+## Done
+- Refined github lookup - now appends name, creation, repos to gitlookup.csv each run.
