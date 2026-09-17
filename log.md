@@ -305,3 +305,18 @@
 
 ## Done
 - Refined github lookup - now appends name, creation, repos to gitlookup.csv each run.
+
+## Day 23
+
+## Learnt
+- Logic for using continue in for loops works the same as in while True loops - skips iteration, in for loops moving to the next row / char in loop.
+- for loops iteration: files give lines, strings give chars etc.
+- When using with to open a file, anything in the code thereafter referring to that file needs to be within the context of the with block.
+- DictReader assumes first row of csv is header, no need to assign fieldnames if the header is already defined in csv.
+
+## Error
+- Incorrect structuring of code, created a with block then referred to said file outside of the context.
+- General structure and logic flow, getting rusty with fluency here as I have not been studying as much and missing days.
+
+## Done
+- Problem set 6: Tasks 1 & 2 Done.
