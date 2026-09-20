@@ -320,3 +320,16 @@
 
 ## Done
 - Problem set 6: Tasks 1 & 2 Done.
+
+## Day 24
+
+## Learnt
+- When building / reformatting a dict of data, In my case reformatting an existing csv file, and then transferring the reformatted version from one csv to another - create an empty list, classify the data being read into a dict format, then using a for loop append the dicts to the list row by row. then the list will contain a list of dicts which you can transfer and incorporate into csv.DictWriter.
+- Contrary to DictReader, DictWriter requires a pre-assigned header, using fieldnames = ['list', 'values'] because the file being written is empty.
+- More techy with structuring logic, e.g first name, last name can not be stripped due to whitespace not leading. Solution is to first split the two values and then strip the second variable due to it being isolated and now strippable. Aiming to start thinking like this intuitively more.
+
+## Error
+- Big grey area on scourgify task being not knowing how to structure the code to format the input file, and then build a new dict from it by appending to a list and defining the new key:values per row. Somewhat clarified but would like to do more learning on this until im fluent.
+
+## Done
+- Finished problem set 6 - File I/O.
