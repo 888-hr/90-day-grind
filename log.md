@@ -337,7 +337,7 @@
 ## Day 25
 
 ## Learnt 
-- If {variable} - checks if a variable has content, for Boolean checks if the variable stores any content return True, If the variable is None or "" return false
+- If {variable} - checks if a variable has content, for Boolean checks if the variable stores any content return True, If the variable is None, 0 or "" return false
 - 'if username and '.' in domain' does not mean if username and . is in domain. It functions as 'if username' and 'if . in domain', and doesn't automatically join conditionals like it reads in english.
 - backslash = escape
 - r string = raw string, often paired with backslash this is used mainly in regex for characters like '.'
@@ -347,3 +347,12 @@
 
 ## Done
 - Part of Lecture 7 + 2 small catchup sessions. (progress will only be based from the lecture's learnings)
+
+## Day 26
+
+## Learnt 
+- re.search, re.match, re.sub
+- new syntax such as \w, re.IGNORECASE, ? for optional, (item|item) to say item or item etc.
+
+## Done
+- Finished lecture 7: Regular expressions
