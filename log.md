@@ -356,3 +356,17 @@
 
 ## Done
 - Finished lecture 7: Regular expressions
+
+
+## Day 27
+
+## Learnt
+- class, Learnt how a class functions on a base level, how to add values to it.
+- Learnt a little bit on __init__, self
+- Raising ValueErrors, can raise them manually, and add an explanation in ValueError(""), can add multiple ValueErrors with multiple explanations to handle different errors.
+
+## Error
+- N/A
+
+## Done
+- 1 hour of lecture 8: OOP, vague understanding so far but will clarify in coming sessions.
